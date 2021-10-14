@@ -1,24 +1,3 @@
-# README
+# micro-reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is part of the Odin curriculum. The objective is to create a (very) micro-reddit. Through this I learned about Active Record, Migrations, Validations, and Associations. I also got to practice designing a Database.
